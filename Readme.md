@@ -182,7 +182,14 @@ This project implements and compares two Convolutional Neural Network (CNN) arch
 
 1. **Confusion Matrices:**
    - Saved as `confusion_baseline.png` and `confusion_advanced.png`
+
+     ![image](https://github.com/user-attachments/assets/26fa4f25-3904-4780-bcf2-7107be59c3e0)
+
+     ![image](https://github.com/user-attachments/assets/2fb47972-f5ce-41d9-8b9e-de50a51c6bea)
+
    
 2. **Training Curves:**
    - Loss progression: `training_loss.png`
    - Accuracy development: `training_accuracy.png`
+  ![image](https://github.com/user-attachments/assets/c48a146a-0f48-4b76-812e-6b7b1be4c1be)
+
