@@ -178,13 +178,6 @@ This project implements and compares two Convolutional Neural Network (CNN) arch
 - Both models benefit from Adam optimizer's adaptive learning rates
 - Advanced model's dropout (0.5) effectively prevents overfitting despite deeper architecture
 
-### Performance Variance
-- Metric fluctuations between builds (<±2%) due to:
-  - Random weight initialization
-  - Data loader shuffling
-  - Non-deterministic GPU computations
-- Consistent >85% accuracy for Advanced CNN across builds demonstrates robustness
-
 ## Visualizations (Generated During Execution)
 
 1. **Confusion Matrices:**
